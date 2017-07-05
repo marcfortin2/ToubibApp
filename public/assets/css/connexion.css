@@ -1,0 +1,53 @@
+/* Full-width input fields */
+input[type=text], input[type=password] {
+    width: 25%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+}
+
+body{
+    text-align: center;
+    display: block;
+}
+
+#imgLogo{
+    text-align: center;
+    height:254px; 
+    width:208px;
+    margin:23px 23px 23px 23px;
+}
+
+#loginPatient{
+    width: 350px;
+    text-align: center;
+    display: inline-block;
+}
+
+#submitbtn{
+   margin:auto;
+   display:block;
+    width: 300px;
+    height: 40px;
+}
+#userlab{
+    margin:auto;
+    display:block;
+}
+#usertxt{
+    margin:auto;
+    display:block;
+    width:300px;
+    height: 40px;
+}
+#pswlab{
+    margin:auto;
+}
+#userpsw{
+    margin:auto;
+    display:block;
+    width:300px;
+    height: 40px;
+}

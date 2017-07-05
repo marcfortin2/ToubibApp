@@ -1,0 +1,82 @@
+#envoyerRDV{
+	width: 300px;
+}
+
+#raisonBox{
+	width: 650px;
+}
+
+#rdvConteneur{
+	margin-bottom: 100px;
+}
+
+#infoPatient{
+	width: 315px;
+	border-style:solid;
+	padding-left: 5px;
+	padding-bottom: 5px;
+	margin: 2px 2px 2px 2px;
+	border-radius:10px;
+	border-color:#333;
+	display: inline-block;
+}
+
+#cliniquesDiv{
+	width: 450px;
+	/*display: inline;*/
+	float: right;
+	position: relative;
+	/*top:-270px;*/
+	margin-bottom: -2000px;
+}
+
+#cliniquesLabel{
+
+}
+
+#cliniquesSelect{
+	margin-top: 20px;
+	margin-bottom: 20px;
+	width: auto;
+	/*margin-left: 20px;
+	display:inline-block;*/
+}
+
+#horaireDiv{
+	width: 450px;
+	clear: both;
+	float: right;
+	/*margin-top: -130px;*/
+	height: 380px;
+	margin-top: 150px;
+}
+
+#horaireLabel{
+}
+
+#horaireSelect{
+	width:300px;
+	height:auto;
+
+}
+
+#raisonDiv{
+	display: inline;
+	width: auto;
+	margin-top: 10px;
+}
+
+#rdvContainer{
+	bottom: 100px;
+}
+#infoClinique{
+	width:315px;
+	padding-left: 5px;
+	padding-bottom: 5px;
+	border-style: solid;
+	margin: 2px 2px 2px 2px;
+	border-radius: 10px;
+	border-color:#333;
+	display: inline-block;
+	top:0;
+}
